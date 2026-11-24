@@ -1,0 +1,1 @@
+.env echo pycache/ echo *.pyc echo *.db echo venv/ echo .venv/
